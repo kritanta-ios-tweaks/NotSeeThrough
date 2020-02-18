@@ -1,0 +1,18 @@
+# ninja log v5
+1	1508	1582067520320971035	.dragon/build/KRTableCell.o	2b018b3d83ed5dd1
+1	1533	1582067520346113853	.dragon/build/KRLabeledSliderCell.o	e77c11a2fb8d05cf
+2	1552	1582067520365858464	.dragon/build/NSTRootListController.o	e1b9ab538b9a74c3
+1	1586	1582067520400723160	.dragon/build/KRLinkCell.o	c388bec13008d42d
+1	1605	1582067520418721225	.dragon/build/KRTwitterCell.o	4bccebaa0d1a34c6
+1605	1868	1582067520682888111	.dragon/sign/Library/PreferenceBundles/NotSeeThroughPrefs.bundle/NotSeeThroughPrefs.nosym	34a4f5ee2e0265c3
+1868	1912	1582067520682888111	.dragon/sign/Library/PreferenceBundles/NotSeeThroughPrefs.bundle/NotSeeThroughPrefs.unsigned	d76d670f30951364
+1912	1925	1582067520738879013	../.dragon/_/Library/PreferenceBundles/NotSeeThroughPrefs.bundle/NotSeeThroughPrefs	9e53ccc3685dceec
+0	249	1582067847384572001	.dragon/sign/Library/PreferenceBundles/NotSeeThroughPrefs.bundle/NotSeeThroughPrefs.nosym	34a4f5ee2e0265c3
+249	297	1582067847384572001	.dragon/sign/Library/PreferenceBundles/NotSeeThroughPrefs.bundle/NotSeeThroughPrefs.unsigned	d76d670f30951364
+297	311	1582067847446026784	../.dragon/_/Library/PreferenceBundles/NotSeeThroughPrefs.bundle/NotSeeThroughPrefs	9e53ccc3685dceec
+0	253	1582068001206961811	.dragon/sign/Library/PreferenceBundles/NotSeeThroughPrefs.bundle/NotSeeThroughPrefs.nosym	34a4f5ee2e0265c3
+253	296	1582068001206961811	.dragon/sign/Library/PreferenceBundles/NotSeeThroughPrefs.bundle/NotSeeThroughPrefs.unsigned	d76d670f30951364
+296	311	1582068001264639585	../.dragon/_/Library/PreferenceBundles/NotSeeThroughPrefs.bundle/NotSeeThroughPrefs	9e53ccc3685dceec
+0	392	1582068402334789000	.dragon/sign/Library/PreferenceBundles/NotSeeThroughPrefs.bundle/NotSeeThroughPrefs.nosym	34a4f5ee2e0265c3
+393	443	1582068402334789000	.dragon/sign/Library/PreferenceBundles/NotSeeThroughPrefs.bundle/NotSeeThroughPrefs.unsigned	d76d670f30951364
+443	460	1582068402401907821	../.dragon/_/Library/PreferenceBundles/NotSeeThroughPrefs.bundle/NotSeeThroughPrefs	9e53ccc3685dceec

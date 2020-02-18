@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+
+		<dict>
+			<key>cellClass</key>
+			<string>KRTwitterCell</string>
+			<key>label</key>
+			<string>Kritanta</string>
+			<key>accountName</key>
+			<string>_kritanta</string>
+		</dict>
+			<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>me.kritanta.notseethroughprefs</string>
+			<key>key</key>
+			<string>tweakEnabled</string>
+			<key>label</key>
+			<string>Enabled</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>KRLabeledSliderCell</string>
+			<key>default</key>
+			<integer>40</integer>
+			<key>defaults</key>
+			<string>me.kritanta.notseethroughprefs</string>
+			<key>id</key>
+			<string>Xoffset</string>
+			<key>key</key>
+			<string>blur</string>
+			<key>label</key>
+			<string>Blur %</string>
+			<key>min</key>
+			<integer>0</integer>
+			<key>max</key>
+			<integer>100</integer>
+			<key>showValue</key>
+			<true/>
+			<key>isSegmented</key>
+			<false/>
+			<key>segmentCount</key>
+			<integer>100</integer>
+			<key>height</key>
+			<real>80</real>
+			<key>PostNotification</key>
+			<string>me.kritanta.notseethroughprefs/Prefs</string>
+		</dict>
+
+	</array>
+	<key>title</key>
+	<string>NotSeeThrough</string>
+</dict>
+</plist>
